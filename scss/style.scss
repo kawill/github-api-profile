@@ -49,3 +49,32 @@ img {max-width:100;}
 body {
     transition: opacity .25s ease;
 }
+
+.profile {
+
+    .repos {
+        position: relative;
+        border-color: #000;
+
+        &::before {
+            content: "";
+            display: inline-block;
+
+
+        }
+
+        &::after {
+            display: inline-block;
+        }
+    }
+
+
+
+}
+
+    .userInfo {
+        position: absolute;
+        display: inline-block;
+        border-color: #000;
+    }
+
