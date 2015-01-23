@@ -50,31 +50,31 @@ body {
     transition: opacity .25s ease;
 }
 
-.profile {
+// .profile {
 
-    .repos {
-        position: relative;
-        border-color: #000;
+//     .repos {
+//         position: relative;
+//         border-color: #000;
 
-        &::before {
-            content: "";
-            display: inline-block;
-
-
-        }
-
-        &::after {
-            display: inline-block;
-        }
-    }
+//         &::before {
+//             content: "";
+//             display: inline-block;
 
 
+//         }
 
-}
+//         &::after {
+//             display: inline-block;
+//         }
+//     }
 
-    .userInfo {
-        position: absolute;
-        display: inline-block;
-        border-color: #000;
-    }
+
+
+// }
+
+//     .userInfo {
+//         position: absolute;
+//         display: inline-block;
+//         border-color: #000;
+//     }
 

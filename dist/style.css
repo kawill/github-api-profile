@@ -853,17 +853,3 @@ body {
   -webkit-transition: opacity .25s ease;
           transition: opacity .25s ease; }
 
-.profile .repos {
-  position: relative;
-  border-color: #000; }
-  .profile .repos::before {
-    content: "";
-    display: inline-block; }
-  .profile .repos::after {
-    display: inline-block; }
-
-.userInfo {
-  position: absolute;
-  display: inline-block;
-  border-color: #000; }
-
